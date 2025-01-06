@@ -10,7 +10,7 @@
 - [Data Modeling](https://github.com/ThuyTran102/DA__4__dashboard__Sales_Analysis_by_car_brand?tab=readme-ov-file#data-modeling)
 - [Data Analysis (DAX)](https://github.com/ThuyTran102/DA__4__dashboard__Sales_Analysis_by_car_brand?tab=readme-ov-file#data-analysis-dax)
 - [Data Visualization (Dashboard)](https://github.com/ThuyTran102/DA__4__dashboard__Sales_Analysis_by_car_brand?tab=readme-ov-file#data-visualization-dashboard)
-- [Insights & Recommendations](https://github.com/ThuyTran102/DA__4__dashboard__Sales_Analysis_by_car_brand?tab=readme-ov-file#insights-recommendations)
+- [Insights & Recommendations](https://github.com/ThuyTran102/DA__4__dashboard__Sales_Analysis_by_car_brand?tab=readme-ov-file#insights--recommendations)
 
 
 ## Project Objectives:
